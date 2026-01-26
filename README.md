@@ -1,3 +1,11 @@
+# Disease-Prediction-for-Rural-Health
+
+check out the website by the link below: 
+https://ruchikakumbhar10.github.io/Disease-Prediction-for-Rural-Health/
+
+---
+
+
 # 🌿 Early Disease Prediction System | Rural Tech Initiative Project
 
 This project was developed as part of the **Rural Tech Initiative**, focusing on improving early healthcare access in rural areas through technology. Our goal was to create a **disease prediction system** that identifies potential diseases based on symptoms and enhances health awareness through data-driven insights.
@@ -72,11 +80,7 @@ This project was collaboratively developed as part of the **Rural Tech Initiativ
 
 ---
 
-## 📎 Repository Structure
 
-# Disease-Prediction-for-Rural-Health
 
-check out the website by the link below: 
-https://ruchikakumbhar10.github.io/Disease-Prediction-for-Rural-Health/
 
 --
