@@ -1,6 +1,6 @@
 # Disease-Prediction-for-Rural-Health
 
-Check out the Website by the link below: 
+Check out the Website 
 https://ruchikakumbhar10.github.io/Disease-Prediction-for-Rural-Health/
 
 ---
